@@ -1,0 +1,9 @@
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptBackup\tptBackup\bin\Release\tptBackup.exe.config
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptBackup\tptBackup\bin\Release\tptBackup.exe
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptBackup\tptBackup\bin\Release\tptBackup.pdb
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptBackup\tptBackup\obj\Release\tptBackup.Form1.resources
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptBackup\tptBackup\obj\Release\tptBackup.Properties.Resources.resources
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptBackup\tptBackup\obj\Release\tptBackup.csproj.GenerateResource.Cache
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptBackup\tptBackup\obj\Release\tptBackup.exe
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptBackup\tptBackup\obj\Release\tptBackup.pdb
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptBackup\tptBackup\obj\Release\tptBackup.csprojResolveAssemblyReference.cache
